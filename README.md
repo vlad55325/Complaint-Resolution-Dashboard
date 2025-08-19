@@ -1,6 +1,6 @@
 ### Complaint Resolution Dashboard
 
-A simple data analysis project based on the {Consumer Complaint Database (https://www.kaggle.com/datasets/namigabbasov/consumer-complaint-dataset)}.  
+A simple data analysis project.
 The goal of this project is to explore customer complaint data, track key KPIs, and visualise insights that support complaint handling efficiency.
 
 # Features
